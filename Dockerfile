@@ -1,4 +1,4 @@
-FROM alpine:3.10.1
+FROM yanzinetworks/alpine:3.10.1
 
 ENV USER=aplayer
 ENV UID=7104
