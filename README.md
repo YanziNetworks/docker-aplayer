@@ -9,7 +9,7 @@ docker run \
     --rm \
     --device /dev/snd \
     -v `pwd`:/data \
-    efrecon/aplay \
+    yanzinetworks/aplay \
     /data/ping.wav
 ```
 
